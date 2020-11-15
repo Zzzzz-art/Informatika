@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+N = int(input())
+print((a + b + c + d) * 3)
+print((a + b + c + d) * N)
